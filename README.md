@@ -1,17 +1,20 @@
 # Hello folks 👋
 ## Access my Resume --> [Priya-Resume](https://drive.google.com/file/d/17gJRuIBODsV2EP4u30W4YE30OAEHB3fP/view?usp=drivesdk)
 
-<!--
-**priyanita04/priyanita04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third year student pursuing B.tech in Electronics and Communication Engineering from NIT Agartala batch 2019-23. Apart from that I am deep diving into Web Development and loves problem solving using Data Structure and Algorithms. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- fullstack developer in Red Reality
+- free lancer in a startup
+- Ranked #34 out of 1287 Students on GFG in NIT Agartala
+- LGM Heist Coding contest Rank- 18 out of 330+ participants.
+- 5* in problem solving at hackerrank
+- 235 problems on leetcode
+- 441 problems on Geeks for Geeks
+
+<p align = "center">
+  Social &nbsp;
+    <a href="mailto:undefined.priyagupta.nit@gmail.com"><img src="https://img.shields.io/badge/-undefined.priyagupta.nit.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a><a href="mailto:priya.saps.2000@gmail.com">
+    <img src="https://img.shields.io/badge/-priya.saps.2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/priya-gupta-424a811ab/"><img src="https://img.shields.io/badge/-priya-gupta-424a811ab?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
