@@ -27,5 +27,5 @@ I am a third year student pursuing B.tech in Electronics and Communication Engin
 ![](https://img.shields.io/badge/<Libraries_and_Tools>-<HTML5__CSS3__JS__Nodejs_Expree_React_Git_GitHub>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/<Databases>-<MongoDB(NoSQL)>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+<br>
 <br>
