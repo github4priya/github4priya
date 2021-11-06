@@ -14,7 +14,6 @@ I am a third year student pursuing B.tech in Electronics and Communication Engin
 
 <br>
 <p>
-  Social &nbsp;
     <a href="mailto:priyagupta.nit@gmail.com"><img src="https://img.shields.io/badge/-priyagupta.nit.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a><a href="mailto:priya.saps.2000@gmail.com">
     <img src="https://img.shields.io/badge/-priya.saps.2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/priya-gupta-424a811ab/"><img src="https://img.shields.io/badge/-Priya%20Gupta-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
