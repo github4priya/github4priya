@@ -11,7 +11,8 @@ I am a third year student pursuing B.tech in Electronics and Communication Engin
 - 5* in problem solving at hackerrank
 - 235 problems on leetcode
 - 441 problems on Geeks for Geeks
-
+- 
+<br>
 <p>
   Social &nbsp;
     <a href="mailto:priyagupta.nit@gmail.com"><img src="https://img.shields.io/badge/-priyagupta.nit.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a><a href="mailto:priya.saps.2000@gmail.com">
