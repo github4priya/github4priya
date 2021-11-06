@@ -1,5 +1,5 @@
-### Hello folks 👋
-Access my Resume --> 
+# Hello folks 👋
+## Access my Resume --> [Priya-Resume](https://drive.google.com/file/d/1J6kgGD9TO_gjpFbZYm1500N-NhjP9e1y/view?usp=sharing)
 
 <!--
 **priyanita04/priyanita04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
