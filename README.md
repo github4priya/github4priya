@@ -20,7 +20,7 @@ I am a third year student pursuing B.tech in Electronics and Communication Engin
     <a href="https://www.linkedin.com/in/priya-gupta-424a811ab/"><img src="https://img.shields.io/badge/-Priya%20Gupta-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-
+<br>
 <br>
 ![](https://img.shields.io/badge/<Programming_Languages>-<C__C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
