@@ -11,7 +11,7 @@ I am a third year student pursuing B.tech in Electronics and Communication Engin
 - 5* in problem solving at hackerrank
 - 235 problems on leetcode
 - 441 problems on Geeks for Geeks
-- 
+
 <br>
 <p>
   Social &nbsp;
