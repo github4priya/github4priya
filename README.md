@@ -1,5 +1,5 @@
 # Hello folks 👋
-## Access my Resume --> [Priya-Resume](https://drive.google.com/drive/folders/19vOspisAKlPQE0MDzJL7QrhFpZ04lNfs?usp=sharing)
+## Access my Resume --> [Priya-Resume](https://drive.google.com/file/d/1VIMFue5y9UDN41GHxaE3QRekRz6UgGwr/view?usp=drivesdk)
 
 I am a third year student pursuing B.tech in Electronics and Communication Engineering from NIT Agartala batch 2019-23. Apart from that I am deep diving into Web Development and loves problem solving using Data Structure and Algorithms. 
 
