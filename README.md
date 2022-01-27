@@ -6,11 +6,11 @@ I am a third year student pursuing B.tech in Electronics and Communication Engin
 
 - fullstack developer in Red Reality
 - free lancer in a startup
-- Ranked #34 out of 1287 Students on GFG in NIT Agartala
+- Ranked #23 out of 1467+ Students on GFG in NIT Agartala
 - LGM Heist Coding contest Rank- 18 out of 330+ participants.
 - 5* in problem solving at hackerrank
-- 235 problems on leetcode
-- 441 problems on Geeks for Geeks
+- 298+ problems on leetcode
+- 485 problems on Geeks for Geeks
 
 <br>
 <p>
