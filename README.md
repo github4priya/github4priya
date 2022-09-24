@@ -1,16 +1,18 @@
 # Hello folks 👋
-## Access my Resume --> [Priya-Resume](https://drive.google.com/file/d/1nRxgsKYDhw2SEMJ7-4lyozuC2vksE_rw/view?usp=drivesdk)
+## Access my Resume --> [Priya-Resume](https://drive.google.com/file/d/1ncFRx7DyJsh3q2Gggmu-PhnJcxqzBIp7/view?usp=sharing)
 
-I am a third year student pursuing B.tech in Electronics and Communication Engineering from NIT Agartala batch 2019-23. Apart from that I am deep diving into Web Development and loves problem solving using Data Structure and Algorithms. 
+I am a final year student pursuing B.tech in Electronics and Communication Engineering from NIT Agartala batch 2019-23. 
 
+Apart from that I am deep diving into Web Development and loves problem solving using Data Structure and Algorithms. 
 
+- Upcoming SDE intern @Cashfree
 - fullstack developer in Red Reality
 - free lancer in a startup
 - Ranked #23 out of 1467+ Students on GFG in NIT Agartala
 - LGM Heist Coding contest Rank- 18 out of 330+ participants.
 - 5* in problem solving at hackerrank
-- 298+ problems on leetcode
-- 485 problems on Geeks for Geeks
+- 370+ problems on leetcode
+- 530+ problems on Geeks for Geeks
 
 <br>
 <p>
