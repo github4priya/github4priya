@@ -5,10 +5,10 @@ I am a final year student pursuing B.tech in Electronics and Communication Engin
 
 Apart from that I am deep diving into Web Development and loves problem solving using Data Structure and Algorithms. 
 
-- Upcoming SDE intern @Cashfree
+- SDE intern @Cashfree
 - fullstack developer in Red Reality
 - free lancer in a startup
-- Ranked #23 out of 1467+ Students on GFG in NIT Agartala
+- Ranked #38 out of 2100+ Students on GFG in NIT Agartala
 - LGM Heist Coding contest Rank- 18 out of 330+ participants.
 - 5* in problem solving at hackerrank
 - 370+ problems on leetcode
