@@ -1,5 +1,5 @@
 # Hello folks 👋
-## Access my Resume --> [Priya-Resume](https://drive.google.com/file/d/1YzmzjSoyYO9ZeG1NEVtNosUZLlNXcyQb/view?usp=drivesdk)
+## Access my Resume --> [Priya-Resume](https://drive.google.com/file/d/1M8-9mcsZvK0NKIZVOj-S7LgH-shjC4YX/view?usp=sharing)
 
 I am a final year student pursuing B.tech in Electronics and Communication Engineering from NIT Agartala batch 2019-23. 
 
